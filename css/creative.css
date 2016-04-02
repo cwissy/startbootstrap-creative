@@ -409,7 +409,6 @@ body {
 }
 .map-responsive iframe {
   left: 12.5%;
-  top: 12.5%;
   height: 75%;
   width: 75%;
   position: absolute;
